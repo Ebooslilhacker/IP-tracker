@@ -1,4 +1,4 @@
-IP-tracker its a software to track IP addresses, its write on bash so you need a unix OS and a list of command to start the software.
+IP-tracker its a software to track IP addresses, its write on bash so you need a unix OS and a list of commands to start the software.
 
 The graphical interface has a very simplistic use which will allow you to use it very easily. You just have to select the option and then paste or write the IP address and the program will automatically do everything for you to provide information very useful about the target.
 
