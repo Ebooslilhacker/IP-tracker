@@ -37,4 +37,4 @@ sh Ip_Tracker.sh
 
 
 
-Happy OSNT :)
+Happy OSINT :)
